@@ -8,4 +8,4 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/vfabi/k8s-controller-objects-metadata)
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/vfabi/k8s-controller-objects-metadata)
 
-DEPRICATED. Moved to https://github.com/vfabi/k8scontroller-metadata-exporter
+DEPRECATED. Moved to https://github.com/vfabi/k8scontroller-metadata-exporter
